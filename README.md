@@ -1,1 +1,2 @@
-# Css-HTML-JS
+# resume learning with:
+# CSS-HTML-JS
